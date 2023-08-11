@@ -57,6 +57,7 @@ Once the process is complete, it will return a training accuracy somewhere betwe
 The ``training summaries``, ``retrained graphs`` and ``retrained labels`` will be saved in a folder named ``tf_files``.
 
 ### Classify objects
+![file-dialog1](https://github.com/AryanSinghIIIT/ImageDetection/assets/96579866/d3c30694-5f9d-41a9-b938-b14917206934)
 
 ```javascript
 python3 classify.py
@@ -66,23 +67,16 @@ This opens up the file dialog using which you can select your input file.
 
 
 Once the input file is selected, the classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
+![cli-output1](https://github.com/AryanSinghIIIT/ImageDetection/assets/96579866/3169ceb3-0639-4d9c-b00c-1e7224ebe7e6)
 
 
 <br/>
 
 ## Results
+![result](https://github.com/AryanSinghIIIT/ImageDetection/assets/96579866/6f6fcd40-8038-4070-a4e2-2bdda92e8069)
 
 <br/>
 
-## Contributors
-
-| :---: | :---: |
-
-<br/>
-
-## Support
-
-If you'd like to help support the development of the project, please consider backing me on Patreon -
 
 
 <br/>
